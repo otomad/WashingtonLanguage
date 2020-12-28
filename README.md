@@ -18,6 +18,6 @@ Created by FontCreator.
 
 具体参考如图：
 
-![image](https://github.com/otomad/WashingtonLanguage/Washington%20Secret%20Code/Washington%20Secret%20Code%201.png)
+![image](https://github.com/otomad/WashingtonLanguage/blob/main/Washington%20Secret%20Code/Washington%20Secret%20Code%201.png)
 
-![image](https://github.com/otomad/WashingtonLanguage/Washington%20Secret%20Code/Washington%20Secret%20Code%202.png)
+![image](https://github.com/otomad/WashingtonLanguage/blob/main/Washington%20Secret%20Code/Washington%20Secret%20Code%202.png)
