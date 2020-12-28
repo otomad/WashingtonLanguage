@@ -17,3 +17,7 @@ Created by FontCreator.
 除此之外，他还提出了一种 Secret Code，通过阿拉伯**语**数字 **（不是阿拉伯数字！）** 来编码部分英文单词。
 
 具体参考如图：
+
+![image](https://github.com/otomad/WashingtonLanguage/Washington%20Secret%20Code/Washington%20Secret%20Code%201.png)
+
+![image](https://github.com/otomad/WashingtonLanguage/Washington%20Secret%20Code/Washington%20Secret%20Code%202.png)
