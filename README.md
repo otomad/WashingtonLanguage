@@ -12,7 +12,7 @@ Created by FontCreator.
 目前最新版 6.00 相比于之前混乱不堪的字形，已全面调整为 Times New Roman 风格。不过目前只有 Regular 字形，缺少粗、斜体等字形，未来应该会补充。
 
 ----
-#Washington Secret Code
+# Washington Secret Code
 
 除此之外，他还提出了一种 Secret Code，通过阿拉伯**语**数字 **（不是阿拉伯数字！）** 来编码部分英文单词。
 
